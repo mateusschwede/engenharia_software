@@ -1,0 +1,6 @@
+===== ETAPAS ANÁLISE DE SISTEMAS =====
+1- Elicitação de requisitos funcionais e não funcionais
+2- Diagrama UC
+3- Especificação Textual
+4- Diagrama ER
+6- Diagrama Classes
